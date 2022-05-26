@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SaiBhargavReddy
 - 👀 I’m interested in disruptive technologies
-- 🌱 I’m training in python and cv
 - 💞️ I’m looking to collaborate with folks who has similar interests
 - 📫 How to reach me: csbr923@gmail.com
 
