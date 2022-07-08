@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaiBhargavReddy
 - 👀 I’m interested in disruptive technologies
 - 💞️ I’m looking to collaborate with folks who has similar interests
-- 📫 How to reach me: csbr923@gmail.com
+- 📫 How to reach me: saibhargavreddy@gmail.com
 
 <!---
 SaiBhargavReddy/SaiBhargavReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
