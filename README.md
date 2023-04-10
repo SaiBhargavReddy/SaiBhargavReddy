@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SaiBhargavReddy
 - 👀 I’m interested in disruptive technologies
-- 💞️ I’m looking to collaborate with folks who has similar interests
 - 📫 How to reach me: saibhargavreddy@gmail.com
 
 <!---
